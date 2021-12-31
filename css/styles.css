@@ -135,6 +135,7 @@ font-size: 1.5rem;
 	line-height: 1.5;
 	color: white;
 	font-family: "Lobster two", cursive;
+	text-align: center;
   }
   .grey-section > p {
 	  font-family: 'Sacramento',cursive;
@@ -160,8 +161,8 @@ font-size: 1.5rem;
 	text-align: center;
 	
 }
-.grey-section > p > i{
-	padding: 0 0.3rem 0;
+.grey-section > .row > .col-3{
+	color:white;
 }
  /* footer */
 
