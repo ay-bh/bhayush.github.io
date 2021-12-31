@@ -161,8 +161,9 @@ font-size: 1.5rem;
 	text-align: center;
 	
 }
-.grey-section > .row > .col-3{
+.grey-section > .row > .col-3 > i{
 	color:white;
+	padding: 0 0.1rem 0;
 }
  /* footer */
 
