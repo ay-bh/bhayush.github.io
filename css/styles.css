@@ -14,9 +14,10 @@ h1 {
 	line-height: 1.5;
 	color: white;
 }
-#link{
-padding-left:4.5rem;
-}
+/* #link{
+ margin-left:auto;
+margin-right: auto; 
+} */
 a > i {
 	color: white;
 	padding: 0 0.5rem 0;
