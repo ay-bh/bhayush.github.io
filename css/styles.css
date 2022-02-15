@@ -225,6 +225,12 @@ body {
 	animation: gradient 12s ease infinite;
 }
 
+@media (max-width: 269px){
+	body{
+		background-size: 1000% 1000%;
+	}
+}
+
 @keyframes gradient {
 	0% {
 		background-position: 0% 50%;
